@@ -15,6 +15,6 @@ This project will help you understand how a real-world database is analyzed usin
 
 #### Task 2: Analyze cleaned data using MySQL Queries
 
-### Module 2: Visualizing data using Power bi.
+### Module 2: Visualizing data using Tableau / PowerBI
 
 
